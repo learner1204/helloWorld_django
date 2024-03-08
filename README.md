@@ -17,7 +17,7 @@
 3. Activate virtual environment
 
     ```
-    venv\Scripts\activate
+    venv\Scripts\.\activate
     ```
 
 4. install django
