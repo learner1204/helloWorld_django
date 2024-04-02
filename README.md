@@ -29,7 +29,7 @@
 5. check version of django
 
     ```
-    django-admin version
+    django-admin --version
     ```
 
 6. create django project
